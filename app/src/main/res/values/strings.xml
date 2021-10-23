@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">kulinerq</string>
+    <string name="title">Title</string>
+    <string name="price">Price</string>
+    <string name="description">Description</string>
+
+    <string-array name="menu">
+        <item>AyamGepuk</item>
+        <item>MieBakso</item>
+        <item>MieGoreng</item>
+        <item>MujairBakar</item>
+
+    </string-array>
+
+    <string-array name="harga">
+        <item>20.000</item>
+        <item>30.000</item>
+        <item>10.000</item>
+        <item>50.000</item>
+
+    </string-array>
+
+    <string-array name="deskripsi">
+        <item>Ayam gepuk disajikan dengan nasi dan sambal</item>
+        <item>Mie Bakso daging dengan bakso kecil dan besar</item>
+        <item>Mie goreng dengan daging ayam dan sawi</item>
+        <item>Mujair bakar besar dengan pilihan sambal</item>
+
+    </string-array>
+
+</resources>
